@@ -1,0 +1,46 @@
+a:hover {
+    color: #00FFFF;
+}
+nav li {
+    display: inline;
+    padding: 0px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFF8DC;
+    padding: 10px;
+}
+div {
+    width: 90%;
+    color: #FFF8DC;
+    background-color: #FF1493;
+    margin: 10px;
+    padding: 20px;
+}
+.top-section {
+    display: flex;
+}
+.profile {
+    position: relative;
+    width: 30%;
+}
+.about {
+    flex: 1;
+    position: relative;
+    width: 70%;
+}
+.profile-pic {
+    border-radius: 25%;
+    height: 350px;
+    width: 350px;
+}
+h1 {
+    color: #FF1493;
+}
+footer {
+    text-align: center;
+}
+td {
+    margin: 30px;
+    padding: 10px;
+}
